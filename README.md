@@ -11,7 +11,7 @@
 </p>
 <p align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=idealeer&count_private=true&theme=synthwave"> &nbsp
-  <img alt="Language Usage" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=idealeer&count_private=true&theme=chartreuse-dark&layout=compact"> &nbsp
+  <img alt="Language Usage" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=idealeer&count_private=true&theme=chartreuse-dark"> &nbsp
 </p>
 
 <picture>
