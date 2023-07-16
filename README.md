@@ -6,7 +6,7 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/idealeer?label=GitHub%20Followers&style=social"> 
   </a> &nbsp
   <a href="https://github.com/idealeer">
-  <img alt="Hitcount" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fidealeer%2Fidealeer&count_bg=%23AED6F1&title_bg=%23D7DBDD&icon=&icon_color=%23AED6F1&title=Profile%20Views&#58;&edge_flat=false">
+  <img alt="Hitcount" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fidealeer%2Fidealeer&count_bg=%232874A6&title_bg=%23626567&icon=&icon_color=%23AED6F1&title=Profile%20Views&#58;&edge_flat=false">
   </a> &nbsp
 </p>
 <p align="center">
