@@ -31,7 +31,8 @@ jobs:
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       # note: create a new branch: snake
-      - name: push github-contribution-grid-snake.svg to the output branch
+      # note: change the action workflow permissions to read and write in this reposity
+      - name: push github-contribution-grid-snake.svg to the snake branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: snake
