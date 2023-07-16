@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://twitter.com/idealeer">
-  <img alt="Contact on Twitter" src="https://img.shields.io/badge/-@idealeer-85C1E9?style=flat&logo=Twitter"/img>
+  <img alt="Contact on Twitter" src="https://img.shields.io/badge/-@idealeer-F8F9F9?style=flat&logo=Twitter"/img>
   </a> &nbsp
   <a href="https://github.com/idealeer?tab=followers">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/idealeer?label=GitHub%20Followers&style=social"> 
