@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://twitter.com/idealeer">
-  <img alt="Contact on Twitter" src="https://img.shields.io/badge/-@idealeer-0088CC?style=flat&logo=Twitter"/img>
+  <img alt="Contact on Twitter" src="https://img.shields.io/badge/-@idealeer-D6EAF8?style=flat&logo=Twitter"/img>
   </a> &nbsp
   <a href="https://github.com/idealeer?tab=followers">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/idealeer?label=GitHub%20Followers&style=social"> 
   </a> &nbsp
   <a href="https://github.com/idealeer">
-  <img alt="Hitcount" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fidealeer%2Fidealeer&count_bg=%2300AEFF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Profile%20Views&#58;&edge_flat=false">
+  <img alt="Hitcount" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fidealeer%2Fidealeer&count_bg=%2300AEFF&title_bg=%23000000&icon=&icon_color=%23AED6F1&title=Profile%20Views&#58;&edge_flat=false">
   </a> &nbsp
 </p>
 <p align="center">
