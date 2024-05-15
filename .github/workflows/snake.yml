@@ -33,7 +33,7 @@ jobs:
       # note: create a new branch: snake
       # note: change the action workflow permissions to read and write in this reposity
       - name: push github-contribution-grid-snake.svg to the snake branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4.0.0
         with:
           target_branch: snake
           build_dir: dist
